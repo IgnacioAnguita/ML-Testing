@@ -1,4 +1,4 @@
-from cost_functions import RMSE
+from ml_models.cost_functions import RMSE
 import numpy as np
 
 class Linear_Regression_Analytic:
