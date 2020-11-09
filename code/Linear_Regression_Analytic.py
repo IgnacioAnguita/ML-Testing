@@ -1,4 +1,5 @@
 from cost_functions import RMSE
+import numpy as np
 
 class Linear_Regression_Analytic:
     def __init__(self):
