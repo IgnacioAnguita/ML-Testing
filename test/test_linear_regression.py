@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from Linear_Regression_Analytic import Linear_Regression_Analytic
+from ml_models.Linear_Regression_Analytic import Linear_Regression_Analytic
 import numpy as np
 
 
