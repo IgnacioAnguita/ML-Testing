@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from code.Linear_Regression_Analytic import Linear_Regression_Analytic
+from Linear_Regression_Analytic import Linear_Regression_Analytic
 import numpy as np
 
 
